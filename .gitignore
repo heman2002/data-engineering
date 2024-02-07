@@ -1,2 +1,5 @@
 /keys/
 /02-workflow-orchestration/mage-zoomcamp/taxi-rides-ny-412715-26506972d00b.json
+.DS_Store
+01-docker-terraform/.DS_Store
+02-workflow-orchestration/.DS_Store
