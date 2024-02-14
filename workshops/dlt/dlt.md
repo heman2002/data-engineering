@@ -98,6 +98,8 @@ for sqrt_value in generator:
 - **C**: 378
 - **D**: 390
 
+***Answer***
+
 `**A**: 353`
 
 ```bash
@@ -134,6 +136,8 @@ display(age_sum)
 - **B**: 266
 - **C**: 241
 - **D**: 258
+
+***Answer***
 
 `**B**: 266`
 

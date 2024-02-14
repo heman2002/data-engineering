@@ -4,3 +4,5 @@
 */.cache/*
 */.logs/*
 */.variables/*
+02-workflow-orchestration/mage-zoomcamp/mage_data/magic-zoomcamp/mage-ai.db
+02-workflow-orchestration/mage-zoomcamp/mage_data/*
